@@ -1,0 +1,83 @@
+{
+    "canciones": [
+        {
+            "archivo": "song1.mp3",
+            "titulo": "Song 1",
+            "artista": "Artista 1",
+            "duracion": "00:50",
+            "genero": "Misc"
+        },
+        {
+            "archivo": "song2.mp3",
+            "titulo": "Song 2",
+            "artista": "Artista 2",
+            "duracion": "01:45",
+            "genero": "Vibes"
+        },
+        {
+            "archivo": "song3.mp3",
+            "titulo": "Song 3",
+            "artista": "Artista 3",
+            "duracion": "01:11",
+            "genero": "Suspense"
+        },
+        {
+            "archivo": "song4.mp3",
+            "titulo": "Song 4",
+            "artista": "Artista 4",
+            "duracion": "04:01",
+            "genero": "Experimental"
+        },
+        {
+            "archivo": "song5.mp3",
+            "titulo": "Song 5",
+            "artista": "Artista 5",
+            "duracion": "01:13",
+            "genero": "Acoustic"
+        }
+    ],
+    "videos": [
+        {
+            "archivo": "video1.mp4",
+            "titulo": "Video 1",
+            "director": "Director 1",
+            "duracion": "00:32",
+            "genero": "Landscape"
+        },
+        {
+            "archivo": "video2.mp4",
+            "titulo": "Video 2",
+            "director": "Director 2",
+            "duracion": "00:11",
+            "genero": "Train"
+        },
+        {
+            "archivo": "video3.mp4",
+            "titulo": "Video 3",
+            "director": "Director 3",
+            "duracion": "00:28",
+            "genero": "Tundra"
+        },
+        {
+            "archivo": "video4.mp4",
+            "titulo": "Video 4",
+            "director": "Director 4",
+            "duracion": "00:49",
+            "genero": "Bird"
+        },
+        {
+            "archivo": "video5.mp4",
+            "titulo": "Video 5",
+            "director": "Director 5",
+            "duracion": "00:15",
+            "genero": "Clouds"
+        },
+        {
+            "archivo": "video6.webm",
+            "titulo": "Video 6",
+            "director": "Director 6",
+            "duracion": "00:07",
+            "genero": "Food"
+        }
+    ]
+}
